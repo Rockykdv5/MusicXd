@@ -1,4 +1,4 @@
-
+# VAMPIRE ✘ ᴍᴜsɪᴄ
 POWERFUL MUSIC BOT
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -8,7 +8,7 @@ POWERFUL MUSIC BOT
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/1f070ea3147e2a3ef44e4.jpg">
+  <img src="https://github.com/Rockykdv5/MusicXd/blob/main/icon.png">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [VamPire ✘ ᴍᴜsɪᴄ](https://t.me/Demon_Rocky)**_
@@ -17,7 +17,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [VamPire ✘ ᴍᴜs
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/5c2babbf5aee1826ed258.jpg">
+  <img src="https://github.com/Rockykdv5/MusicXd/blob/main/icon.png">
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b09cdfe8fb553fdd976eb.jpg">
+  <img src="https://github.com/Rockykdv5/MusicXd/blob/main/icon.png">
 </p>
 
 </details>
@@ -73,10 +73,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/tbcbotschat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Demon_Rocky"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/TBC_Bots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Demon_Rocky"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
